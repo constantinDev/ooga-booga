@@ -3,7 +3,7 @@
 ### fuck you
 
 ## secondly
-### this project was made with collaborate brain damage so dont except much
+### this project was made with collaborate brain damage so dont expect* much
 
 ## third
 ### manual
@@ -18,3 +18,5 @@ no fck off
 
 
 # i have issues
+
+* i made a typo there fuc kme
